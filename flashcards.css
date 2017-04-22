@@ -1,0 +1,32 @@
+body {
+  width: 700px;
+  height: 300px;
+  align-content: center;
+}
+
+#header{
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+  width: 400px;
+}
+
+#fronter {
+  text-align: center;
+  background-color: grey;
+  height: 60px;
+  width: 380px;
+  color: white;
+  padding:.30px, 0px, 0px, 0px;
+  padding-top: blue;
+}
+
+#backer {
+  text-align: center;
+  background-color: grey;
+  height: 60px;
+  width: 380px;
+  color: white;
+  padding:.30px, 0px, 0px, 0px;
+  padding-top: blue;
+}
